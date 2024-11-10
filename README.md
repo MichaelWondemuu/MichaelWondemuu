@@ -1,4 +1,4 @@
-![👋 Hi, my name is Michael Wondemu](https://your-photo-url-here.jpg)
+![👋 Hi, my name is Michael Wondemu]([https://your-photo-url-here.jpg](https://avatars.githubusercontent.com/u/47080325?v=4))
 
 <div id="toc">
   <ul align="center" style="list-style: none">
