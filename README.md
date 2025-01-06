@@ -23,7 +23,19 @@
   </a>
 </p>
 
-**<h3 align="left">🚀 Passionate software engineer, working on e-commerce and procurement systems. Skilled in full-stack development, with expertise in NestJS, PostgreSQL, and microservices architecture.</h3>**
+**<h3 align="left">🚀 Passionate software engineer, working on e-commerce and procurement systems. Skilled in full-stack development, with expertise in NestJS, PostgreSQL, and microservices architecture.
+🎓 Lecturer at Woldia University
+I am passionate about sharing knowledge and inspiring the next generation of tech professionals. At Woldia University, I teach courses in computer science and software engineering, fostering innovation and critical thinking.
+
+💻 Software Developer at Prago Systems & Kachamale Technologies
+With hands-on experience in software development, I specialize in building scalable, user-friendly solutions. At Prago Systems, I focus on enterprise-grade software applications, while at Kachamale Technologies, I contribute to cutting-edge projects that drive technological advancements.
+
+🚀 What I Do:
+
+Develop and maintain complex software systems using modern tech stacks.
+Mentor and guide students and junior developers in their career journeys.
+Collaborate with teams to deliver innovative solutions to real-world problems.
+</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
