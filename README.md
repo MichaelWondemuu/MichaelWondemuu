@@ -1,4 +1,4 @@
-![👋 Hi, my name is Michael Wondemu]([https://ibb.co/10hmGC9](https://avatars.githubusercontent.com/u/47080325?v=4))
+![👋 Hi, my name is Michael Wondemu]([https://i.ibb.co/FhND4QB/db5d6abc-a5ef-4d68-9b58-5429c67529ea.jpg](https://avatars.githubusercontent.com/u/47080325?v=4))
 
 <div id="toc">
   <ul align="center" style="list-style: none">
