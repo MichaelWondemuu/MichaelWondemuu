@@ -23,19 +23,7 @@
   </a>
 </p>
 
-**<h3 align="left">🚀 Passionate software engineer, working on e-commerce and procurement systems. Skilled in full-stack development, with expertise in NestJS, PostgreSQL, and microservices architecture.
-🎓 Lecturer at Woldia University
-I am passionate about sharing knowledge and inspiring the next generation of tech professionals. At Woldia University, I teach courses in computer science and software engineering, fostering innovation and critical thinking.
-
-💻 Software Developer at Prago Systems & Kachamale Technologies
-With hands-on experience in software development, I specialize in building scalable, user-friendly solutions. At Prago Systems, I focus on enterprise-grade software applications, while at Kachamale Technologies, I contribute to cutting-edge projects that drive technological advancements.
-
-🚀 What I Do:
-
-Develop and maintain complex software systems using modern tech stacks.
-Mentor and guide students and junior developers in their career journeys.
-Collaborate with teams to deliver innovative solutions to real-world problems.
-</h3>**
+<h3 align="left">🚀 Passionate Software Engineer</h3> <p align="left">I specialize in e-commerce and procurement systems, with expertise in full-stack development, including NestJS, PostgreSQL, and microservices architecture.</p> <h3 align="left">🎓 Lecturer at Woldia University</h3> <p align="left">I am dedicated to sharing knowledge and inspiring the next generation of tech professionals. At Woldia University, I teach courses in computer science and software engineering, encouraging innovation and critical thinking among students.</p> <h3 align="left">💻 Software Developer at Prago Systems & Kachamale Technologies</h3> <p align="left">With extensive experience in software development, I focus on building scalable and user-friendly solutions: - At **Prago Systems**, I work on enterprise-grade software applications. - At **Kachamale Technologies**, I contribute to cutting-edge projects that push technological boundaries.</p> <h3 align="left">🚀 What I Do</h3> <ul align="left"> <li>Develop and maintain complex software systems using modern tech stacks.</li> <li>Mentor and guide students and junior developers in their career journeys.</li> <li>Collaborate with teams to deliver innovative solutions to real-world problems.</li> </ul>
 
 **<h3 align="left">Rapid Fire</h3>**
 
