@@ -183,7 +183,7 @@ const michael = {
 ---
 
 <details>
-<summary><b>🎓 Woldia University &nbsp;—&nbsp; Part-time Lecturer, Computer Science & Software Engineering</b> &nbsp;|&nbsp; <i>2018 – 2025 · Woldia, ET</i></summary>
+<summary><b>🎓 Woldia University &nbsp;—&nbsp; Lecturer, Computer Science & Software Engineering</b> &nbsp;|&nbsp; <i>2018 – 2025 · Woldia, ET</i></summary>
 
 <br/>
 
@@ -335,9 +335,9 @@ const michael = {
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    CAREER IMPACT SUMMARY                            │
 ├──────────────────────────────────┬──────────────────────────────────┤
-│  ⏱  Years of Experience          │  8+                              │
-│  🏢  Enterprise Platforms Built   │  7+                              │
-│  🏛  Government Agencies Served   │  50+ (National ePROCURE)         │
+│  ⏱  Years of Experience          │  5+                              │
+│  🏢  Enterprise Platforms Built   │  5+                              │
+│  🏛  Government Agencies Served   │  4+ (National ePROCURE)         │
 │  ⚡  Avg Boilerplate Reduction    │  ~40% via NestJS framework        │
 │  🚀  Avg Deployment Speed Gain    │  30–35%                          │
 │  🔐  Security Audits Passed       │  3  (0 critical findings each)   │
