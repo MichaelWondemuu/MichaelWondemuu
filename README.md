@@ -43,7 +43,7 @@
  * @edu     MSc Software Engineering — AASTU (GPA: 3.63)
  */
 const michael = {
-  experience : "8+ years building enterprise-grade systems",
+  experience : "5+ years building enterprise-grade systems",
   currentRole: "Senior Full-Stack Engineer & Solution Architect @ ChinetPlus Technology Solutions",
 
   coreExpertise: [
