@@ -306,9 +306,9 @@ const michael = {
 <br/><br/>
 
 <!-- Row 3: Contribution / commit history calendar — works without any Action -->
-<img width="90%" src="https://ghchart.rshah.org/2E75B6/MichaelWondemuu" alt="Michael's GitHub contribution chart" />
+<!-- <img width="90%" src="https://ghchart.rshah.org/2E75B6/MichaelWondemuu" alt="Michael's GitHub contribution chart" />
 
-<br/><br/>
+<br/><br/> -->
 
 <!-- Row 4: Activity graph with commits plotted over time -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelWondemuu&bg_color=0D1117&color=60A5FA&line=2E75B6&point=FFFFFF&area=true&area_color=1F4E79&hide_border=true&custom_title=Commit%20%26%20Push%20Activity%20Graph&radius=6" />
