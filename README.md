@@ -19,11 +19,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MichaelWondemuu&color=2E75B6&style=flat-square&label=Profile+Views)
 &nbsp;
-![Years](https://img.shields.io/badge/Experience-8%2B%20Years-1F4E79?style=flat-square&logo=clockify&logoColor=white)
+![Years](https://img.shields.io/badge/Experience-8%2B%20Years-1F4E79?style=flat-square)
 &nbsp;
-![Platforms](https://img.shields.io/badge/Enterprise%20Platforms-7%2B-2E75B6?style=flat-square&logo=server&logoColor=white)
+![Platforms](https://img.shields.io/badge/Enterprise%20Platforms-7%2B-2E75B6?style=flat-square)
 &nbsp;
-![Agencies](https://img.shields.io/badge/Govt%20Agencies%20Served-50%2B-1F4E79?style=flat-square&logo=gov&logoColor=white)
+![Agencies](https://img.shields.io/badge/Govt%20Agencies%20Served-50%2B-1F4E79?style=flat-square)
 
 </div>
 
@@ -43,7 +43,7 @@
  * @edu     MSc Software Engineering — AASTU (GPA: 3.63)
  */
 const michael = {
-  experience : "5+ years building enterprise-grade systems",
+  experience : "8+ years building enterprise-grade systems",
   currentRole: "Senior Full-Stack Engineer & Solution Architect @ ChinetPlus Technology Solutions",
 
   coreExpertise: [
@@ -146,7 +146,7 @@ const michael = {
 **📈 Impact**
 
 ```
-~40%  boilerplate reduction   →  NestJS monorepo framework across 5 SaaS products
+~40%  boilerplate reduction     →  NestJS monorepo framework across 5 SaaS products
  30%  faster time-to-production →  event-driven microservices + Redis caching layer
  ~4h → <20min deployment time  →  GitHub Actions + Docker + Nginx automation
   0   critical post-launch incidents across all multi-tenant go-lives
@@ -170,10 +170,10 @@ const michael = {
 **📈 Impact**
 
 ```
-50+   government agencies served         →  National ePROCURE platform (Vendor Mgmt · e-Tendering · Contract Mgmt)
-~60%  query performance improvement      →  900ms → 350ms via PostgreSQL indexing + Redis caching layer
- 25%  cross-team delivery throughput ↑   →  API gateway standards + coding guidelines + architecture playbook
-  0   critical findings on security audit →  OAuth 2.0 + JWT + RBAC + AES encryption
+50+   government agencies served          →  National ePROCURE (Vendor Mgmt · e-Tendering · Contract Mgmt)
+~60%  query performance improvement       →  900ms → 350ms via PostgreSQL indexing + Redis caching layer
+ 25%  cross-team delivery throughput ↑    →  API gateway standards + coding guidelines + architecture playbook
+  0   critical findings on security audit  →  OAuth 2.0 + JWT + RBAC + AES encryption
 ```
 
 **Tech:** `C#` `.NET` `PostgreSQL` `Angular` `Docker` `OAuth 2.0` `JWT` `Redis`
@@ -183,7 +183,7 @@ const michael = {
 ---
 
 <details>
-<summary><b>🎓 Woldia University &nbsp;—&nbsp;Lecturer, Computer Science & Software Engineering</b> &nbsp;|&nbsp; <i>2018 – 2025 · Woldia, ET</i></summary>
+<summary><b>🎓 Woldia University &nbsp;—&nbsp; Lecturer, Computer Science & Software Engineering</b> &nbsp;|&nbsp; <i>2018 – 2025 · Woldia, ET</i></summary>
 
 <br/>
 
@@ -205,15 +205,15 @@ const michael = {
 
 <div align="center">
 
-| # | Project | What it does | Stack |
-|---|---------|--------------|-------|
-| 🚛 | **Transportation Management System** | End-to-end fleet & logistics platform — dispatching, tracking, billing, KPI dashboards | `NestJS` `TypeScript` `PostgreSQL` `Next.js` `Docker` |
-| 🏪 | **POS & Retail Platform** | Multi-branch retail management with offline-ready sync, loyalty programmes, warehouse management | `NestJS` `Next.js` `PostgreSQL` `CQRS` `Docker` |
-| 🔖 | **Excise Tax & Digital Stamp System** | Govt-grade anti-counterfeit platform — stamp lifecycle, QR/barcode verification, regulatory dashboards | `NestJS` `TypeScript` `PostgreSQL` `QR/Barcode` |
-| 🍽️ | **YeneMenu** | Multi-tenant QR digital menu system for hospitality — real-time push notifications, ElasticSearch discovery | `NestJS` `ReactJS` `MongoDB` `RabbitMQ` `SocketIO` `DDD` |
-| 🛒 | **E-Commerce Optimisation** | ~65% search perf improvement · ML recommendations → +20% engagement | `NestJS` `Next.js` `PostgreSQL` `Redis` `CQRS` |
-| 🏛️ | **National ePROCURE** | Nationwide government procurement — 50+ agencies, e-tendering, vendor management | `C#` `.NET` `PostgreSQL` `Angular` `Docker` |
-| 📝 | **YeneGetse CMS** | Multi-language CMS for Ethiopian languages with SMS notification integration | `NestJS` `ReactJS` `PostgreSQL` `Redis` |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| 🚛 **Transportation Management System** | End-to-end fleet & logistics platform — dispatching, tracking, billing, KPI dashboards | `NestJS` `TypeScript` `PostgreSQL` `Next.js` `Docker` |
+| 🏪 **POS & Retail Platform** | Multi-branch retail management with offline-ready sync, loyalty programmes, warehouse management | `NestJS` `Next.js` `PostgreSQL` `CQRS` `Docker` |
+| 🔖 **Excise Tax & Digital Stamp System** | Govt-grade anti-counterfeit platform — stamp lifecycle, QR/barcode verification, regulatory dashboards | `NestJS` `TypeScript` `PostgreSQL` `QR/Barcode` |
+| 🍽️ **YeneMenu** | Multi-tenant QR digital menu system for hospitality — real-time push notifications, ElasticSearch discovery | `NestJS` `ReactJS` `MongoDB` `RabbitMQ` `SocketIO` `DDD` |
+| 🛒 **E-Commerce Optimisation** | ~65% search perf improvement · ML recommendations → +20% engagement | `NestJS` `Next.js` `PostgreSQL` `Redis` `CQRS` |
+| 🏛️ **National ePROCURE** | Nationwide government procurement — 50+ agencies, e-tendering, vendor management | `C#` `.NET` `PostgreSQL` `Angular` `Docker` |
+| 📝 **YeneGetse CMS** | Multi-language CMS for Ethiopian languages with SMS notification integration | `NestJS` `ReactJS` `PostgreSQL` `Redis` |
 
 </div>
 
@@ -293,30 +293,41 @@ const michael = {
 
 <br/>
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=MichaelWondemuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6&text_color=C9D1D9&ring_color=2E75B6" />
-&nbsp;&nbsp;
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWondemuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=C9D1D9&langs_count=8" />
+<!-- Row 1: Stats + Top Languages side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelWondemuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6&text_color=C9D1D9&ring_color=2E75B6" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWondemuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=C9D1D9&langs_count=8" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelWondemuu&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=60A5FA&currStreakLabel=2E75B6&sideLabels=2E75B6&dates=6B7280&stroke=1F4E79" />
+<!-- Row 2: Streak -->
+<img width="80%" src="https://streak-stats.demolab.com/?user=MichaelWondemuu&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=60A5FA&currStreakLabel=2E75B6&sideLabels=2E75B6&dates=6B7280&stroke=1F4E79" />
 
 <br/><br/>
 
-<!-- Contribution snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichaelWondemuu/MichaelWondemuu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelWondemuu/MichaelWondemuu/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MichaelWondemuu/MichaelWondemuu/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<!-- Row 3: Contribution / commit history calendar — works without any Action -->
+<img width="90%" src="https://ghchart.rshah.org/2E75B6/MichaelWondemuu" alt="Michael's GitHub contribution chart" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelWondemuu&bg_color=0D1117&color=2E75B6&line=2E75B6&point=60A5FA&area=true&area_color=1F4E79&hide_border=true&custom_title=Contribution%20Graph" />
+<!-- Row 4: Activity graph with commits plotted over time -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelWondemuu&bg_color=0D1117&color=60A5FA&line=2E75B6&point=FFFFFF&area=true&area_color=1F4E79&hide_border=true&custom_title=Commit%20%26%20Push%20Activity%20Graph&radius=6" />
 
 <br/><br/>
 
-<!-- Trophy shelf -->
+<!-- Row 5: WakaTime / detailed commit breakdown per repo (no setup needed beyond public repos) -->
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelWondemuu&theme=tokyonight" alt="Profile summary" />
+
+<br/><br/>
+
+<!-- Row 6: Two summary cards — commits by hour + repos per language -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelWondemuu&theme=tokyonight&utcOffset=3" />
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelWondemuu&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- Row 7: Trophy shelf -->
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=MichaelWondemuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
@@ -335,9 +346,9 @@ const michael = {
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    CAREER IMPACT SUMMARY                            │
 ├──────────────────────────────────┬──────────────────────────────────┤
-│  ⏱  Years of Experience          │  5+                              │
+│  ⏱  Years of Experience          │  8+                              │
 │  🏢  Enterprise Platforms Built   │  7+                              │
-│  🏛  Government Agencies Served   │  50+ (National ePROCURE)         │
+│  🏛  Government Agencies Served   │  50+  (National ePROCURE)        │
 │  ⚡  Avg Boilerplate Reduction    │  ~40% via NestJS framework        │
 │  🚀  Avg Deployment Speed Gain    │  30–35%                          │
 │  🔐  Security Audits Passed       │  3  (0 critical findings each)   │
