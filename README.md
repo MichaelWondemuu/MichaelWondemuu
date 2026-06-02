@@ -43,7 +43,7 @@
  * @edu     MSc Software Engineering — AASTU (GPA: 3.63)
  */
 const michael = {
-  experience : "8+ years building enterprise-grade systems",
+  experience : "5+ years building enterprise-grade systems",
   currentRole: "Senior Full-Stack Engineer & Solution Architect @ ChinetPlus Technology Solutions",
 
   coreExpertise: [
@@ -346,9 +346,9 @@ const michael = {
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    CAREER IMPACT SUMMARY                            │
 ├──────────────────────────────────┬──────────────────────────────────┤
-│  ⏱  Years of Experience          │  8+                              │
+│  ⏱  Years of Experience          │  5+                              │
 │  🏢  Enterprise Platforms Built   │  7+                              │
-│  🏛  Government Agencies Served   │  50+  (National ePROCURE)        │
+│  🏛  Government Agencies Served   │  5+  (National ePROCURE)        │
 │  ⚡  Avg Boilerplate Reduction    │  ~40% via NestJS framework        │
 │  🚀  Avg Deployment Speed Gain    │  30–35%                          │
 │  🔐  Security Audits Passed       │  3  (0 critical findings each)   │
